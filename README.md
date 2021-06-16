@@ -41,6 +41,6 @@ Vyron Vasileiadis <hi@fedonman.com>
 
 ## Links
 
-- My BSc thesis, in the context of which CoveX was created <https://fedonman.com/BSc-Thesis-Vyron-Vasileiadis.pdf>.
+- My BSc thesis on quantum computing: <https://fedonman.com/BSc-Thesis-Vyron-Vasileiadis.pdf>
 
 [1]: https://github.com/fedonman/covex-quantum-circuit-simulator/blob/main/LICENSE
