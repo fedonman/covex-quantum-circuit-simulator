@@ -2,10 +2,24 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>CoveX.ClassicalUtilities</PackageId>
+    <Authors>Vyron Vasileiadis</Authors>
+    <Product>CoveX.ClassicalUtilities</Product>
+    <Description>CoveX is an ASP.NET Core framework for simulating quantum circuits written in C#</Description>
+    <RepositoryUrl>https://github.com/fedonman/covex-quantum-circuit-simulator</RepositoryUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Cove.Base\CoveX.Base.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
