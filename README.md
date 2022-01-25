@@ -2,7 +2,7 @@
 
 ![Nuget](https://img.shields.io/nuget/v/CoveX.LocalSimulation)
 
-CoveX is an ASP.NET Core framework for simulating quantum circuits written in C#.
+CoveX is a .NET Core framework for simulating quantum circuits written in C#.
 
 It was originally written in .NET Framework 4.5 in the context of my BSc thesis on quantum computing. It is now updated to .NET Core 3.1 and listed on GitHub for reference reasons. There are no plans for further active development, however some code samples will be created for educational purposes and .NET version may update.
 
